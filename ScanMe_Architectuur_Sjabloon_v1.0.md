@@ -36,7 +36,7 @@ De aanwezigheid van studenten tijdens de les wordt momenteel semi-automatisch af
 
 Het inscannen zelf zou kunnen plaatsvinden door middel van 1. een smartphone van een lector of begeleider of 2. een barcode scanner zoals hieronder afgebeeld:
 
-![Voorbeeld barcode scanner](img/scanner.png)
+![Voorbeeld barcode scanner](img/Scanner.png)
 
 De bedoeling is om een workflow te bedenken alsook een applicatie voor het opnemen en opvolgen van de absenties. Hieronder wordt twee scenario's uitgewerkt:
 
